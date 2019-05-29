@@ -1,4 +1,4 @@
-# Faida-Estate-Management-System
+# Faida Estate Management System
 A web based application designed to assist residents and the management committee in their operations within a residential estate.
 
 ## Contributors
